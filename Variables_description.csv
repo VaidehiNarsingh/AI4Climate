@@ -1,0 +1,34 @@
+﻿Variables,Description,Units
+,,
+co2_a,Carbon-di-oxide added in ambient (control),
+co2_e,Carbon-di-oxide added in elvated (treated),
+fert_a,Fertilizers added in ambient ,
+fert_e,Fertilizers added in elevated ,
+nfert_a,Whether nutrients were added or not (0 or 1) in ambient,
+nfert_e,Whether nutrients were added or not in elevated,
+nfertQ_a,Amount (Q) of Nitrogen added in ambient,kg/ha.yr
+nfertQ_e,Amount of Nitrogen added in elevated,kg/ha.yr
+pfert_a,Whether phosphorus were added or not (0 or 1) in ambient,
+pfert_e,Whether phosphorus were added or not in elevated,
+pfertQ_a,Amount of phosphorus  added in ambient,kg/ha.yr
+pfertQ_e,Amount of phosphorus added in elevated,kg/ha.yr
+kfert_a,Whether potassium were added or not (0 or 1) in ambient,
+kfert_e,Whether  potassium were added or not in elevated,
+kfertQ_a,Amount of  potassium  added in ambient,kg/ha.yr
+kfertQ_e,Amount of  potassium added in elevated,kg/ha.yr
+lime_a,Plots are limed or not (to increase pH) in ambient,
+lime_e,Plots are limed or not  in elevated,
+foth_a,,
+foth_e,,
+warm_a,Whether the plot was warm in ambient, °C
+warm_e,Whether the plot was warm in elevated, °C
+warmQ_e,Amount of warming , °C
+irr_a,irradiation in ambient,
+irr_e,irradiation in elevated ,
+n_amb,Number of plots for the ambient,
+n_ele,Number of plots for the elevated,
+ozone_a,Ambient Ozone and related pollutants in ambient,
+ozone_e,Ambient Ozone and related pollutants in elevated,
+swarm_a,soil warming (vegetation + upper soil) in ambient, °C
+swarm_e,soil warming in elevated, °C
+swarmQ_e,Amount of soil warming in elevated condition, °C
